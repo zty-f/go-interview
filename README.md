@@ -34,6 +34,9 @@ docs:https://jnwedld8az.feishu.cn/docx/L5DAdUECyoy5fgxDpy0cBTZ7nsc
 
 Github项目地址：https://github.com/zty-f/Mini-Tiktok
 
+feed流通用模板项目
+https://github.com/zty-f/feeddemo
+
 # 2.GO + Gin + GORM + MySql 实现最基础的 CRUD 效果展示
 B站教程：
 
