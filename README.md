@@ -1,6 +1,8 @@
 # go-interview
 go 八股文 学习路线 学习指南
 
+https://blog.csdn.net/qq_43716830/article/details/124405506
+
 # 地鼠文档
 
 https://www.topgoer.cn/docs/gomianshiti/gomianshiti-1cpgf5f10q2q0
